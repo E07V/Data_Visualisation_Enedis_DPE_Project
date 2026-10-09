@@ -26,9 +26,6 @@ Ce dépôt contient un dashboard **Streamlit / Altair** qui compare la consommat
 4. [Principaux résultats](#4-principaux-résultats-échantillon-de-référence-2024)
 5. [KPI et interprétation](#5-kpi-et-interprétation)
 6. [Choix techniques de la visualisation](#6-choix-techniques-de-la-visualisation)
-7. [Limites](#7-limites)
-8. [Pistes d'amélioration](#8-pistes-damélioration)
-9. [Licence et crédits](#9-licence-et-crédits)
 
 ## 1. Utilisation en local
 
