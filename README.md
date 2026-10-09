@@ -48,8 +48,6 @@ L'application s'ouvre sur http://localhost:8501. Il faut Streamlit 1.40 ou plus 
 .
 ├── app.py                     # dashboard Streamlit / Altair
 ├── donnees_appariees.csv      # DPE appariés à Enedis 2023-2024
-├── filtre_dpe.py              # (optionnel) filtrage du fichier DPE brut de l'ADEME
-├── docs/                      # (optionnel) captures d'écran
 └── README.md
 ```
 
